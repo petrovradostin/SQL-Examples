@@ -1,4 +1,4 @@
--- 1. Write a SQL query to find all departments and the average salary for each of them.
+-- 9. Write a SQL query to find all departments and the average salary for each of them.
 
 SELECT 
     d.name, ROUND(AVG(e.salary), 2) as AvgSalary
