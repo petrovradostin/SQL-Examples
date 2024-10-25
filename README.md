@@ -39,5 +39,5 @@ If you'd like to contribute:
 - Create a new branch for your changes.
 - Commit your modifications.
 - Push to the branch and open a pull request.
-- Suggestions for improvements and new task ideas are always welcome!
+Suggestions for improvements and new task ideas are always welcome!
 
